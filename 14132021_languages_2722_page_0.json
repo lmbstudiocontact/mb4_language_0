@@ -1,8 +1,8 @@
 [
   {
     "language": "Russian",
-    "total": 11162,
-    "size_max_detail_page": 224,
+    "total": 11128,
+    "size_max_detail_page": 223,
     "list_detail": [
       {
         "index_page": 0,
@@ -895,17 +895,13 @@
       {
         "index_page": 222,
         "link_page": "https://github.com/lmbstudiocontact/mb4_dt_language_0/raw/main/14132021_dtl_Russian_index_222.json"
-      },
-      {
-        "index_page": 223,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_language_0/raw/main/14132021_dtl_Russian_index_223.json"
       }
     ]
   },
   {
     "language": "Portuguese",
-    "total": 11162,
-    "size_max_detail_page": 224,
+    "total": 11128,
+    "size_max_detail_page": 223,
     "list_detail": [
       {
         "index_page": 0,
@@ -1798,17 +1794,13 @@
       {
         "index_page": 222,
         "link_page": "https://github.com/lmbstudiocontact/mb4_dt_language_0/raw/main/14132021_dtl_Portuguese_index_222.json"
-      },
-      {
-        "index_page": 223,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_language_0/raw/main/14132021_dtl_Portuguese_index_223.json"
       }
     ]
   },
   {
     "language": "English",
-    "total": 11161,
-    "size_max_detail_page": 224,
+    "total": 11128,
+    "size_max_detail_page": 223,
     "list_detail": [
       {
         "index_page": 0,
@@ -2701,17 +2693,13 @@
       {
         "index_page": 222,
         "link_page": "https://github.com/lmbstudiocontact/mb4_dt_language_0/raw/main/14132021_dtl_English_index_222.json"
-      },
-      {
-        "index_page": 223,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_language_0/raw/main/14132021_dtl_English_index_223.json"
       }
     ]
   },
   {
     "language": "Spanish",
-    "total": 11162,
-    "size_max_detail_page": 224,
+    "total": 11127,
+    "size_max_detail_page": 223,
     "list_detail": [
       {
         "index_page": 0,
@@ -3604,10 +3592,6 @@
       {
         "index_page": 222,
         "link_page": "https://github.com/lmbstudiocontact/mb4_dt_language_0/raw/main/14132021_dtl_Spanish_index_222.json"
-      },
-      {
-        "index_page": 223,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_language_0/raw/main/14132021_dtl_Spanish_index_223.json"
       }
     ]
   }
